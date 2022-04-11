@@ -1,4 +1,4 @@
-Author:           Yangyang Lian
+Author; //Yangyang Lian
 import java.util.Random; //importing random class
 import java.util.*; //importing util class
 public class Main //main class
